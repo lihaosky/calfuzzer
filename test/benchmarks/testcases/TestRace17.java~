@@ -1,0 +1,15 @@
+public class TestRace17 {
+	public static Object lock = new Object();
+	public static Object lock1 = new Object();
+	
+	public static void main(String[] args) {
+		synchronized(lock) {
+			synchronized(lock1) {
+			System.out.println("abcd");
+			System.out.println("abcd");
+			System.out.println("abcd");
+			}
+		}
+	}
+}
+	

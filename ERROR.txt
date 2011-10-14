@@ -1,0 +1,28 @@
+##################################################################
+benchmarks.JFGMoldynBenchSizeA HD starts at Wed Apr 6 22:27:36 HKT 2011
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#65 at 2011/04/06 22:31:56
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#65 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:31:56
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#65 at 2011/04/06 22:31:56
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#65 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:31:56
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#65 at 2011/04/06 22:31:56
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#65 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:31:56
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#65 at 2011/04/06 22:31:56
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#65 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:31:56
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:31:57
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:31:57
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:32:04
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:33:02
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:33:02
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#78 And line benchmarks/moldyn/TournamentBarrier.java#76 at 2011/04/06 22:33:02
+Data race detected! At line: benchmarks/moldyn/TournamentBarrier.java#76 And line benchmarks/moldyn/TournamentBarrier.java#78 at 2011/04/06 22:33:02

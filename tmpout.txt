@@ -1,0 +1,2279 @@
+Trace is main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main
+Trace is:
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+this is lihaosky
+main
+main
+main
+main
+main
+main
+main
+main
+main%84[1]
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main%84[1]
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main%84[1]
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main%84[1]
+main
+main
+Java Grande Forum Thread Benchmark Suite - Version 1.0 - Section 3 - Size A
+Executing on 3 threads
+
+Child isThread[Thread-1,5,main]
+Parent is Thread[main,5,main]
+Line number is benchmarks/moldyn/md.java#84
+Parent is main
+Child is main%84
+Thread main wants to acquire lock 99 at line benchmarks/moldyn/md.java#84
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is NEW
+Enabled threads are:
+main
+Thread main released lock 99 at line benchmarks/moldyn/md.java#84
+Thread main%84 want to read memory 17179869201 at line benchmarks/moldyn/md.java#145
+Current thread is main
+Thread main want to read memory 4294967298 at line benchmarks/moldyn/md.java#81
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main want to read memory 386547056656 at line benchmarks/moldyn/md.java#82
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729644 at line benchmarks/moldyn/md.java#105
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729645 at line benchmarks/moldyn/md.java#111
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729646 at line benchmarks/moldyn/md.java#112
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729647 at line benchmarks/moldyn/md.java#113
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729648 at line benchmarks/moldyn/md.java#123
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729649 at line benchmarks/moldyn/md.java#124
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729650 at line benchmarks/moldyn/md.java#125
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729651 at line benchmarks/moldyn/md.java#126
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729631 at line benchmarks/moldyn/md.java#131
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729629 at line benchmarks/moldyn/md.java#134
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729616 at line benchmarks/moldyn/md.java#135
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729627 at line benchmarks/moldyn/md.java#136
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729628 at line benchmarks/moldyn/md.java#137
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 429496729652 at line benchmarks/moldyn/md.java#138
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 416611827714 at line benchmarks/moldyn/md.java#82
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main want to read memory 416611827714 at line benchmarks/moldyn/md.java#83
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main wants to write 420906795010 at line benchmarks/moldyn/md.java#83
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main want to read memory 420906795010 at line benchmarks/moldyn/md.java#84
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Child isThread[Thread-2,5,main]
+Parent is Thread[main,5,main]
+Line number is benchmarks/moldyn/md.java#84
+Parent is main
+Child is main%84[1]
+Thread main wants to acquire lock 101 at line benchmarks/moldyn/md.java#84
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is NEW
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84
+Thread main released lock 101 at line benchmarks/moldyn/md.java#84
+Thread main%84[1] want to read memory 17179869201 at line benchmarks/moldyn/md.java#145
+Thread main want to read memory 4294967298 at line benchmarks/moldyn/md.java#81
+Current thread is main%84[1]
+Current thread is main%84[1]
+Next thread to run is main%84[1]
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is TIMED_WAITING
+main%84[1]'s state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main%84[1] wants to write 429496729653 at line benchmarks/moldyn/md.java#145
+Current thread is main
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 386547056656 at line benchmarks/moldyn/md.java#87
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664236 at line benchmarks/moldyn/md.java#105
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664237 at line benchmarks/moldyn/md.java#111
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664238 at line benchmarks/moldyn/md.java#112
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664239 at line benchmarks/moldyn/md.java#113
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664240 at line benchmarks/moldyn/md.java#123
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664241 at line benchmarks/moldyn/md.java#124
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664242 at line benchmarks/moldyn/md.java#125
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664243 at line benchmarks/moldyn/md.java#126
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664223 at line benchmarks/moldyn/md.java#131
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664221 at line benchmarks/moldyn/md.java#134
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664208 at line benchmarks/moldyn/md.java#135
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664219 at line benchmarks/moldyn/md.java#136
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664220 at line benchmarks/moldyn/md.java#137
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664244 at line benchmarks/moldyn/md.java#138
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 416611827712 at line benchmarks/moldyn/md.java#87
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 416611827712 at line benchmarks/moldyn/md.java#88
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 17179869201 at line benchmarks/moldyn/md.java#145
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664245 at line benchmarks/moldyn/md.java#145
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664245 at line benchmarks/moldyn/md.java#146
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664223 at line benchmarks/moldyn/md.java#146
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664246 at line benchmarks/moldyn/md.java#147
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664245 at line benchmarks/moldyn/md.java#149
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664237 at line benchmarks/moldyn/md.java#149
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664247 at line benchmarks/moldyn/md.java#149
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#150
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664248 at line benchmarks/moldyn/md.java#150
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664247 at line benchmarks/moldyn/md.java#152
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#152
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664249 at line benchmarks/moldyn/md.java#152
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664247 at line benchmarks/moldyn/md.java#153
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664250 at line benchmarks/moldyn/md.java#153
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664239 at line benchmarks/moldyn/md.java#154
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664239 at line benchmarks/moldyn/md.java#154
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664251 at line benchmarks/moldyn/md.java#154
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664251 at line benchmarks/moldyn/md.java#155
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664252 at line benchmarks/moldyn/md.java#155
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664245 at line benchmarks/moldyn/md.java#156
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664253 at line benchmarks/moldyn/md.java#156
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664248 at line benchmarks/moldyn/md.java#157
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664248 at line benchmarks/moldyn/md.java#157
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664254 at line benchmarks/moldyn/md.java#157
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664245 at line benchmarks/moldyn/md.java#158
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664255 at line benchmarks/moldyn/md.java#158
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664238 at line benchmarks/moldyn/md.java#159
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664256 at line benchmarks/moldyn/md.java#159
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664256 at line benchmarks/moldyn/md.java#160
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664239 at line benchmarks/moldyn/md.java#160
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664257 at line benchmarks/moldyn/md.java#160
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664216 at line benchmarks/moldyn/md.java#164
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664217 at line benchmarks/moldyn/md.java#165
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664218 at line benchmarks/moldyn/md.java#166
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664258 at line benchmarks/moldyn/md.java#168
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664259 at line benchmarks/moldyn/md.java#169
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664259 at line benchmarks/moldyn/md.java#169
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664260 at line benchmarks/moldyn/md.java#170
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664260 at line benchmarks/moldyn/md.java#170
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#170
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664261 at line benchmarks/moldyn/md.java#171
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664261 at line benchmarks/moldyn/md.java#171
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#171
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664262 at line benchmarks/moldyn/md.java#172
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664262 at line benchmarks/moldyn/md.java#172
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#172
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664223 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664258 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664260 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664259 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664261 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664259 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664262 at line benchmarks/moldyn/md.java#173
+Current thread is main%84[1]
+Current thread is main%84[1]
+Next thread to run is main%84[1]
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is TIMED_WAITING
+main%84[1]'s state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main%84[1] want to read memory 429496729653 at line benchmarks/moldyn/md.java#146
+Current thread is main
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664216 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664217 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664218 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664219 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664220 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664221 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631509 at line benchmarks/moldyn/md.java#441
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631510 at line benchmarks/moldyn/md.java#442
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631511 at line benchmarks/moldyn/md.java#443
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631512 at line benchmarks/moldyn/md.java#444
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631513 at line benchmarks/moldyn/md.java#445
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631514 at line benchmarks/moldyn/md.java#446
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631515 at line benchmarks/moldyn/md.java#447
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631516 at line benchmarks/moldyn/md.java#448
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631517 at line benchmarks/moldyn/md.java#449
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 442381631518 at line benchmarks/moldyn/md.java#450
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 446676598784 at line benchmarks/moldyn/md.java#173
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664258 at line benchmarks/moldyn/md.java#175
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664258 at line benchmarks/moldyn/md.java#175
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664262 at line benchmarks/moldyn/md.java#172
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664262 at line benchmarks/moldyn/md.java#172
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664262 at line benchmarks/moldyn/md.java#172
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#172
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664261 at line benchmarks/moldyn/md.java#171
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664261 at line benchmarks/moldyn/md.java#171
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664261 at line benchmarks/moldyn/md.java#171
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#171
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664260 at line benchmarks/moldyn/md.java#170
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664260 at line benchmarks/moldyn/md.java#170
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664260 at line benchmarks/moldyn/md.java#170
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#170
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664259 at line benchmarks/moldyn/md.java#169
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664259 at line benchmarks/moldyn/md.java#169
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664259 at line benchmarks/moldyn/md.java#169
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664260 at line benchmarks/moldyn/md.java#170
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664260 at line benchmarks/moldyn/md.java#170
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#170
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664261 at line benchmarks/moldyn/md.java#171
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664261 at line benchmarks/moldyn/md.java#171
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#171
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 438086664262 at line benchmarks/moldyn/md.java#172
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664262 at line benchmarks/moldyn/md.java#172
+Current thread is main%84[1]
+Current thread is main%84[1]
+Current thread is main%84[1]
+Next thread to run is main%84[1]
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is TIMED_WAITING
+main%84[1]'s state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main%84[1] wants to write 429496729631 at line benchmarks/moldyn/md.java#146
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664208 at line benchmarks/moldyn/md.java#172
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664223 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664258 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664260 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664259 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664261 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664259 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664262 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664249 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664216 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664217 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664218 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664219 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664220 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main want to read memory 438086664221 at line benchmarks/moldyn/md.java#173
+Current thread is main
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 450971566101 at line benchmarks/moldyn/md.java#441
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 450971566102 at line benchmarks/moldyn/md.java#442
+Current thread is main%84[1]
+Next thread to run is main%84[1]
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is TIMED_WAITING
+main%84[1]'s state is RUNNABLE
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main%84[1] wants to write 429496729654 at line benchmarks/moldyn/md.java#147
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 450971566103 at line benchmarks/moldyn/md.java#443
+Next thread to run is main
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+Thread main wants to write 450971566104 at line benchmarks/moldyn/md.java#444
+No thread to execute!
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+**********************************************
+****************CHECK DEADLOCK****************
+**********************************************
+********************************************
+***************FIND ENABLED*****************
+********************************************
+main's state is RUNNABLE
+main%84[1]'s state is TIMED_WAITING
+main%84's state is TIMED_WAITING
+Enabled threads are:
+main
+main%84[1]
+main%84
+**********************************************
+*****************CHECK RACE*******************
+**********************************************
+**************************************************
+**************FIND NEXT PATH**********************
+**************************************************
+Backtrack point found!
+Thread main%84can be add before transition 42
+Backtrack path is main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84
+Thread to explore is main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main#main%84[1]#main#main#main

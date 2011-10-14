@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/home/lihao/Desktop/calfuzzer/lib/soot.jar" sourcepath="/home/lihao/Desktop/sootsrc-2.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/lihao/Desktop/calfuzzer/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/lihao/Desktop/calfuzzer_server/lib/sootall-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/lihao/Desktop/calfuzzer_server/lib/ant-contrib.jar"/>
+	<classpathentry kind="lib" path="/home/lihao/Desktop/calfuzzer_server/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/lihao/Desktop/calfuzzer_server/lib/junit-4.7.jar"/>
+	<classpathentry kind="lib" path="/home/lihao/Desktop/calfuzzer_server/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="/home/lihao/Desktop/calfuzzer_server/lib/soot.jar"/>
+	<classpathentry kind="output" path="benchmarks/sor/tmpclasses"/>
+</classpath>
